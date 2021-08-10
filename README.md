@@ -1,2 +1,4 @@
 # colorama
-random hexacolor svg file generator
+clean random hexacolor svg file generator
+
+
