@@ -3,7 +3,7 @@ import random
 random_number = random.randint(0,16777215)
 hex_number =format(random_number,'x')
 hex_full = '#' + hex_number
-print('Eeeexito, look for me for',hex_full)
+print('Eeeexito, look for me for as',hex_full)
   
 str(hex_number)
 f = open(str(hex_full)+'.svg', 'a')
